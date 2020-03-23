@@ -8,4 +8,4 @@ Para ejecutar el código debemos dirigirnos a la carpeta donde tenemos los archi
 
 ```python figurasColores.py```
 
-Dar el agradecimiento a **OMES** y su canal de youtube https://www.youtube.com/channel/UCCDvMED1sysAbF5qOfmEw3A
+Dar el agradecimiento a **OMES** y su canal de youtube
